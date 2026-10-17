@@ -1,0 +1,4 @@
+LIBRARY AirPlayFairPlayPlugin
+EXPORTS
+    AirPlay_TryUnwrapContentKey=_AirPlay_TryUnwrapContentKey
+    AirPlay_FairPlaySetup=_AirPlay_FairPlaySetup
